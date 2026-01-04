@@ -23,7 +23,7 @@ I run **[Village Compute](https://villagecompute.com)**, a software consulting p
 
 - Built software that became the foundation of Scholastic's $300M+/year Education Solutions business
 - Led architecture across 6 teams and 45+ developers globally
-- 8 years owning workforce management systems processing 1M+ API requests daily
+- 8 years owning workforce management systems processing 500K+ API requests daily
 - Deep expertise in enterprise Java, distributed systems, and cloud infrastructure
 
 ## Connect
