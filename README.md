@@ -29,4 +29,3 @@ I run **[Village Compute](https://villagecompute.com)**, a software consulting p
 ## Connect
 
 - [Stack Overflow](https://stackoverflow.com/users/436210/tea-curran)
-- [Email](mailto:tcurran@approachingpi.com)
