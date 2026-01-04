@@ -17,7 +17,7 @@ I run **[Village Compute](https://villagecompute.com)**, a software consulting p
 **Languages:** Java, TypeScript, Python, Ruby, Scala
 **Current Stack:** Quarkus, Vue 3, Flutter, PostgreSQL, Terraform, Kubernetes
 **Infrastructure:** AWS (ECS, Aurora, CloudFront), GCP, GitHub Actions
-**AI Tools:** Claude, multi-agent code generation workflows
+**AI Tools:** Claude, Codex, multi-agent code generation workflows
 
 ## Background
 
