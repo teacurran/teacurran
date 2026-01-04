@@ -6,7 +6,7 @@ I've spent 25+ years building software—from architecting systems serving milli
 
 ## What I'm Working On
 
-**[Village Compute](https://github.com/teacurran?tab=repositories&q=village)** — A suite of production applications built almost entirely through AI-assisted development. I'm using multi-agent workflows to generate, review, and refine code, with SonarQube static analysis to measure and improve AI-generated code quality.
+I run **[Village Compute](https://villagecompute.com)**, a software consulting practice. In my personal projects, I'm exploring AI-assisted development — using multi-agent workflows to generate, review, and refine code, with SonarQube static analysis to measure and improve output quality.
 
 - **[village-calendar](https://github.com/teacurran/village-calendar)** — Full-stack calendar service with Stripe payments, GraphQL API, astronomical calculations. Built with Quarkus (Java 21), Vue 3, PostgreSQL.
 - **[village-storefront](https://github.com/teacurran/village-storefront)** — E-commerce platform with Kubernetes deployment.
