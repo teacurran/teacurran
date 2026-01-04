@@ -28,5 +28,5 @@ I've spent 25+ years building software—from architecting systems serving milli
 
 ## Connect
 
-- [Stack Overflow](https://stackoverflow.com/users/116574/teacurran)
+- [Stack Overflow](https://stackoverflow.com/users/436210/tea-curran)
 - [Email](mailto:tcurran@approachingpi.com)
