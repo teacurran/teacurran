@@ -3,7 +3,7 @@
 
 ## What I'm Working On
 
-I run **[Village Compute](https://villagecompute.com)**, a software consulting practice. In my personal projects, I'm exploring AI-assisted development — using multi-agent workflows to generate, review, and refine code, with SonarQube static analysis to measure and improve output quality.
+I run **[Village Compute](https://villagecompute.com)**, a software consulting practice.  These repos are personal projects, with some recent experiments in AI prompted, medium-sized codebases (~20-50k lines).
 
 - **[village-calendar](https://github.com/teacurran/village-calendar)** — Tool for generating full-year calendar posters. Built with Quarkus (Java 21), Vue 3.
 - **[village-storefront](https://github.com/teacurran/village-storefront)** — E-commerce platform with Kubernetes deployment.
