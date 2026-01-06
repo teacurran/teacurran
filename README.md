@@ -1,8 +1,5 @@
 # Hi, I'm Terrence Curran
 
-**Engineering leader exploring the frontier of AI-augmented software development.**
-
-I've spent 25+ years building software—from architecting systems serving millions of users to leading globally distributed teams. Currently, I'm focused on understanding how AI tools can transform the way we build production software.
 
 ## What I'm Working On
 
@@ -19,12 +16,6 @@ I run **[Village Compute](https://villagecompute.com)**, a software consulting p
 **Infrastructure:** AWS (ECS, Aurora, CloudFront), GCP, GitHub Actions
 **AI Tools:** Claude, Codex, multi-agent code generation workflows
 
-## Background
-
-- Built software that became the foundation of Scholastic's $300M+/year Education Solutions business
-- Led architecture across 6 teams and 45+ developers globally
-- 8 years owning workforce management systems processing 500K+ API requests daily
-- Deep expertise in enterprise Java, distributed systems, and cloud infrastructure
 
 ## Connect
 
