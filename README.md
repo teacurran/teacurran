@@ -3,7 +3,7 @@
 
 ## What I'm Working On
 
-I run **[Village Compute](https://villagecompute.com)**, a software consulting practice.  These repos are personal projects, with some recent experiments in AI prompted, medium-sized codebases (~20-50k lines).
+These repos are personal projects, with some recent experiments in AI prompted, medium-sized codebases (~20-50k lines). Nothing too serious.
 
 ## Technical Focus
 
